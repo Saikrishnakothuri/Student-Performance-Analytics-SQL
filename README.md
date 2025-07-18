@@ -9,6 +9,9 @@ Understanding entities, relationships, and data integrity.
 # SQL Fundamentals:
 Mastery of CREATE, INSERT, SELECT, UPDATE, ALTER, DROP statements.
 
+# DQL (Data Query Language):
+Proficient use of SELECT statements for data retrieval and analysis.
+
 # Advanced SQL Queries:
 Utilizing JOIN operations (INNER, LEFT, RIGHT), GROUP BY, HAVING, CASE statements, and subqueries.
 
